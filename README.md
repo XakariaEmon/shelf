@@ -50,3 +50,16 @@ O:
  -Of Mice and Men
 
 Process finished with exit code 0
+
+
+#output of 9 september wednesday: 
+
+-10% -> Invalid progress
+0% -> not started
+20% -> In Progress
+30% -> In Progress
+40% -> In Progress
+100% -> Completed
+110% -> Invalid progress
+
+Process finished with exit code 0
